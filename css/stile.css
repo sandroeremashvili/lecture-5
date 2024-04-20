@@ -1,0 +1,119 @@
+.htmllogo {
+	vertical-align: middle;
+	display: inline-block;
+	margin: 54px 60px 44px 52px;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-right: 90px;
+	vertical-align: middle;
+}
+
+article {
+	margin-left: 52px;
+}
+
+a{
+	color: #8D81FF;
+	font-size: 24px;
+	font-weight: 700;
+}
+.R2-D2{
+	color: #4E6FAE;
+}
+.container {
+	width: 1052px;
+	margin: 0 auto;
+}
+.siax {
+	vertical-align: middle;
+	display: inline-block;
+	width: 150px;
+    height: 34px;
+    color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.det {
+	vertical-align: middle;
+	display: inline-block;
+	width: 484px;
+    height: 34px;
+    color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 18px;
+
+}
+div {
+	margin-top: 120px;
+}
+.linen {
+	vertical-align: middle;
+}
+div2 {
+	padding-bottom: 32px;
+	padding-left: 23px;
+	padding-right: 15px;
+	padding-top: 21px;
+	vertical-align: middle;
+	background: #E7E7E7;
+	display: inline-block;
+	margin-top: 26px;
+	width: 500px;
+    height: 192px;
+
+}
+div1 {
+	margin-top: 26px;
+	padding: 21px 15px 32px 36px;
+    vertical-align: middle;
+    background: #E7E7E7;
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+   
+} 
+.da {
+	color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 21px;
+	display: inline-block;
+	width: 335px;
+    height: 95px;
+    vertical-align: middle;
+}
+.za {
+	margin-top: 30px;
+	margin-right: 30px;
+	vertical-align: middle;
+}
+.na {
+	color: #3F4145;
+	font-size: 20px;
+	font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+footer {
+	margin-top: 91px;
+}
+.fb {
+	margin-right: 41px;
+}
